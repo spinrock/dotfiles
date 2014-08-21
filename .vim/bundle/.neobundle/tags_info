@@ -2,3 +2,4 @@ neobundle.vim
 nerdtree
 vim-indent-guides
 vim-multiple-cursors
+vim-quickrun

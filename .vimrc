@@ -49,6 +49,9 @@ NeoBundle 'scrooloose/nerdtree'
 " multipleCursors を設定
 NeoBundle 'terryma/vim-multiple-cursors'
 
+" 編集中のコードを実行する quickrun を設定
+NeoBundle 'thinca/vim-quickrun'
+
 " インデントに色を付けて見やすくする
 NeoBundle 'nathanaelkane/vim-indent-guides'
 
