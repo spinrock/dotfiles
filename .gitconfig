@@ -1,0 +1,10 @@
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	ci = commit
+[core]
+	editor = subl -n -w
+[user]
+	name = Satoshi Fukai
+	email = chemistreal2@gmail.com

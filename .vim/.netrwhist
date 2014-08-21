@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/Satoshi-Fukai/Documents'
+let g:netrw_dirhist_2='/Users/Satoshi-Fukai/Dropbox'
+let g:netrw_dirhist_3='/Users/Satoshi-Fukai/Documents/robmo/socket/releaseVersion'
+let g:netrw_dirhist_4='/Users/Satoshi-Fukai/Documents/robmo'
+let g:netrw_dirhist_5='/Users/Satoshi-Fukai/Documents/mysh_d'
